@@ -2,14 +2,14 @@
 
 ### Overview
 
-This project was developed for the **WebBuzz: Cricket-Themed Web Development Challenge**. The goal is to create an engaging and interactive cricket-themed website for **XYZ Organization**, a sports organization dedicated to conducting cricket tournaments in various formats. The website is built using **HTML**, **CSS**, and **JavaScript** only.
+This project was developed for the **WebBuzz: Cricket-Themed Web Development Challenge**. The goal is to create an engaging and interactive cricket-themed website for **XYZ Organization**, a sports organization dedicated to conducting cricket tournaments in various formats. The website is built using **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
 ## Features
 
 - **Cricket-Themed Design**: The website incorporates cricket-related imagery, colors, and elements to align with the challenge's theme.
-- **Interactive Elements**: Various elements of the website, including the multi-stage registration form, feature animations and dynamic behavior for a smooth user experience.
+- **Interactive Elements**: Various elements of the website, including the multi-stage registration form and dynamic behavior for a smooth user experience.
 - **Multi-Stage Registration Form**: A multi-step form allows users to register for tournaments, and the form data is handled via a demo POST method.
 - **Responsive Design**: The website is fully responsive, ensuring that it works on different screen sizes, including mobile, tablet, and desktop.
 
@@ -58,7 +58,7 @@ The project has been hosted on Netlify. The live demo link is accessible to the 
 
 ## Submission Information
 
-This project is submitted for the **WebBuzz: Cricket-Themed Web Development Challenge**.
+This project is submitted for the **WebBuzz: Cricket-Themed Web Development Challenge** on [Unstop](https://unstop.com/hackathons/webbuzz-web-development-challenge-cyphersage-1148269).
 
 ---
 
